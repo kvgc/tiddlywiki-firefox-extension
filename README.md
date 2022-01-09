@@ -1,5 +1,7 @@
 # tiddlywiki-firefox-extension
-Embeds tiddlywiki on the sidebar.
+Embeds tiddlywiki on the sidebar. 
+
+Shortcut key: Ctrl+Alt+Y
 
 
 ## Usage
@@ -14,3 +16,4 @@ Embeds tiddlywiki on the sidebar.
 
 ### Using nodejs and web-ext
 * cd into the directory and enter `web-ext run`. This will install it as a temporary add-on
+
