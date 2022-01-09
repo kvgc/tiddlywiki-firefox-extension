@@ -1,0 +1,28 @@
+{
+
+  "manifest_version": 2,
+  "name": "Tiddlywiki",
+  "description": "Embeds Tiddlywiki on the sidebar.",
+  "version": "1.0",
+  "browser_specific_settings": {
+    "gecko": {
+      "strict_min_version": "54.0a1"
+    }
+  },
+
+  "sidebar_action": {
+    "default_title" : "Tiddlywiki",
+    "default_panel": "notes.html"
+  },
+
+  "permissions": ["storage", "tabs"],
+
+  "commands": {
+    "_execute_sidebar_action": {
+      "suggested_key": {
+        "default": "Ctrl+Alt+Y"
+      }
+    }
+  }
+
+}
