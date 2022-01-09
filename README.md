@@ -7,7 +7,7 @@ Shortcut key: Ctrl+Alt+Y
 ## Usage
 <img src="screenshot.png" width="80%">
 
-* To install add-on to firefox click ![here](tiddlywiki-1.0-fx.xpi)
+* To install add-on to firefox click ![here](https://github.com/kvgc/tiddlywiki-firefox-extension/blob/main/tiddlywiki-1.0-fx.xpi)
 * Open a HTTP server on port 8001 (`python -m http.server 8001`) from the root of this directory.
 
 ## Testing and development
