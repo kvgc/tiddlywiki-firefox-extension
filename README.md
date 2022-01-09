@@ -5,10 +5,12 @@ Shortcut key: Ctrl+Alt+Y
 
 
 ## Usage
-<img src="screenshot.png" width="80%">
 
 * To install add-on, open `tiddlywiki-1.0-fx.xpi` with firefox.
 * Upon installation, open a HTTP server on port 8001 (e.g., `python -m http.server 8001`) from the root of this directory. This is needed to fetch the tiddlywiki file from the local drive.
+
+<img src="screenshot.png" width="80%">
+
 
 ## Testing and development
 * Clone directory. 
