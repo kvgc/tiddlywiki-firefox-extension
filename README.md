@@ -1,5 +1,5 @@
 # tiddlywiki-firefox-extension
-Embeds tiddlywiki on the sidebar. 
+Embeds TiddlyWiki (https://tiddlywiki.com/) on the sidebar. 
 
 Shortcut key: Ctrl+Alt+Y
 
